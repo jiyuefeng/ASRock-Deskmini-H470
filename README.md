@@ -10,7 +10,7 @@ Opencore EFI &amp; macOS recovery for ASRock Deskmini H470
 
 ## After install
 
-**Very Important!**
+**IMPORTANT**
 
 - **Update Serial Number to Enable iCloud Services and App Store**
 
@@ -31,7 +31,7 @@ Instructions: https://shuiyunxc.gitee.io/2020/03/16/Three/index/
 
 ## Not Working
 
-- Audio jack, front panal
+- Audio jack, front panel
 - Awake from sleep using mouse / keyboard
 
 ## Credits
