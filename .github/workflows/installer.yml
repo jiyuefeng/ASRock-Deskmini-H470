@@ -9,7 +9,7 @@ jobs:
 
     runs-on: ubuntu-latest
     env:
-      ROOT: /home/runner/work/Deskmini-H470/Deskmini-H470
+      ROOT: /home/runner/work/ASRock-Deskmini-H470/ASRock-Deskmini-H470
 
     steps:
     - uses: actions/checkout@v2
@@ -42,6 +42,6 @@ jobs:
       uses: softprops/action-gh-release@v1
       if: startsWith(github.ref, 'refs/tags/')
       with:
-        files: /home/runner/work/Deskmini-H470/Deskmini-H470/USB-Installer.zip
+        files: /home/runner/work/ASRock-Deskmini-H470/ASRock-Deskmini-H470/USB-Installer.zip
       env:
         GITHUB_TOKEN: ${{ secrets.ACTION_GITHUB_TOKEN }}
