@@ -20,9 +20,9 @@ Instructions: https://shuiyunxc.gitee.io/2020/03/16/Three/index/
 
 - OS: macOS 10.15.7 Catalina / 11.0 Big Sur
 - OpenCore: 0.6.3
-- CPU: Intel® Core™ i5-10500
-- RAM: DDR4 SODIMM 2933MHz 16GB x 2
-- SSD: Western Digital SN550 500GB
+- CPU: Intel® Core™ i3-10100
+- RAM: DDR4 SODIMM 2666MHz 8GB x 1
+- SSD: KingBank KP230 128G
 - Wi-Fi Card: BCM94360CS2
 
 ## BIOS
