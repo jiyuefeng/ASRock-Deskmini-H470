@@ -4,9 +4,9 @@ Opencore EFI &amp; macOS recovery for ASRock Deskmini H470
 
 ## Usage
 
-1. Download USB-Installer.zip from Releases
-1. Unzip to root of USB Drive with FAT32 format
-1. Boot up and install macOS online
+1. 使用https://github.com/corpnewt/gibMacOS 制作系统恢复镜像，引导方式选择OpenCore
+1. clone 此项目代码，拷贝至 以上系统安装盘 EFI文件夹
+1. 启动，并使用在线安装方式（记得没免驱网卡的要插网线）
 
 ## After install
 
