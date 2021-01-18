@@ -34,6 +34,9 @@ Instructions: https://shuiyunxc.gitee.io/2020/03/16/Three/index/
 - Audio jack, front panel
 - Awake from sleep using mouse / keyboard
 
+## 工具
+- [OpenCore Configurator](http://www.macoshome.com/hackintosh/htools/2100.html)
+
 ## 其他
 - 部分网络环境下[AirportItlwm.kext](https://openintelwireless.github.io/itlwm/) 出现网络诊断
 - itlwm+[HeliPort](https://github.com/OpenIntelWireless/HeliPort) 不支持 WPA2 Enterprise
