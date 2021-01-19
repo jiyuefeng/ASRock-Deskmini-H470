@@ -20,7 +20,7 @@ Instructions: https://shuiyunxc.gitee.io/2020/03/16/Three/index/
 
 - OS: macOS 10.15.7 Catalina
 - OpenCore: 0.6.3
-- CPU: Intel® Core™ i3-10100
+- CPU Cooler: Intel® Core™ i3-10100
 - Cooler: [乔思伯（JONSBO）HP400电商版](https://market.m.taobao.com/app/idleFish-F2e/widle-taobao-rax/page-detail?id=635049968042)
 - RAM: [Kingston Impact DDR4 2666MHz 16GB](https://item.jd.com/67046879906.html#crumb-wrap) x 1
 - SSD: [KingBank KP230 128G](https://item.jd.com/100006331038.html#crumb-wrap)
