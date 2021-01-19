@@ -1,4 +1,4 @@
-# ASRock Deskmini H470
+# ASRock Deskmini H470/H470W
 
 Opencore EFI &amp; macOS recovery for ASRock Deskmini H470
 
@@ -16,7 +16,7 @@ Opencore EFI &amp; macOS recovery for ASRock Deskmini H470
 
 Instructions: https://shuiyunxc.gitee.io/2020/03/16/Three/index/
 
-## Specifications
+## 配置清单
 
 - OS: macOS 10.15.7 Catalina
 - OpenCore: 0.6.3
