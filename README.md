@@ -5,7 +5,7 @@ Opencore EFI &amp; macOS recovery for ASRock Deskmini H470/H470W
 ## Usage
 
 1. 使用[gibMacOS](https://github.com/corpnewt/gibMacOS) 制作系统恢复镜像，引导方式选择[OpenCore](https://dortania.github.io/OpenCore-Install-Guide/) 这里使用[0.6.3](https://github.com/acidanthera/OpenCorePkg/releases/tag/0.6.3) 版本
-1. clone 此项目代码，拷贝至 以上系统安装盘 EFI文件夹
+1. clone 此项目代码，拷贝EFI到系统安装盘 EFI文件夹
 1. 启动，并使用在线安装方式（记得没免驱网卡的要插网线）
 
 ## After install
