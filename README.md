@@ -43,6 +43,6 @@ Instructions: https://shuiyunxc.gitee.io/2020/03/16/Three/index/
 
 ## 感谢
 
-[csrutil](https://github.com/csrutil)
-[OpenIntelWireless](https://github.com/OpenIntelWireless)
-[LewiVir](https://github.com/LewiVir/)
+- [csrutil](https://github.com/csrutil)
+- [OpenIntelWireless](https://github.com/OpenIntelWireless)
+- [LewiVir](https://github.com/LewiVir/)
