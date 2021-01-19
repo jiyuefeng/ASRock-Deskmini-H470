@@ -1,6 +1,6 @@
 # ASRock Deskmini H470/H470W
 
-Opencore EFI &amp; macOS recovery for ASRock Deskmini H470
+Opencore EFI &amp; macOS recovery for ASRock Deskmini H470/H470W
 
 ## Usage
 
